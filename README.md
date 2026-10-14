@@ -36,3 +36,6 @@ Desenvolver soluções tecnológicas que integrem sistemas, automatizem processo
 - Estudos práticos de Git e GitHub
 - Exercícios de Python e SQL
 
+## Aprendizado contínuo
+
+Estudando Git e GitHub na prática.
