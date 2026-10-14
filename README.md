@@ -30,3 +30,9 @@ Em desenvolvimento.
 
 Desenvolver soluções tecnológicas que integrem sistemas, automatizem processos e melhorem os resultados do negócio.
 
+## Projetos em desenvolvimento
+
+- Portfólio de automação
+- Estudos práticos de Git e GitHub
+- Exercícios de Python e SQL
+
