@@ -49,3 +49,12 @@ Continuar praticando Git e GitHub, trabalhando com branches, commits e Pull Requ
 - Controle de versão com Git.
 - Colaboração e revisão de código com GitHub.
 - Organização de projetos por meio de branches e Pull Requests.
+
+## Boas práticas de desenvolvimento
+
+- Revisar alterações antes de criar um commit.
+- Utilizar mensagens de commit claras e objetivas.
+- Trabalhar com branches para organizar tarefas.
+- Utilizar Pull Requests para revisar e integrar alterações.
+- Manter a documentação do projeto atualizada.
+
