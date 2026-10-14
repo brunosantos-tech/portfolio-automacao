@@ -39,3 +39,7 @@ Desenvolver soluções tecnológicas que integrem sistemas, automatizem processo
 ## Aprendizado contínuo
 
 Estudando Git e GitHub na prática.
+
+## Próximos passos
+
+Continuar praticando Git e GitHub, trabalhando com branches, commits e Pull Requests.
