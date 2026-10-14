@@ -43,3 +43,9 @@ Estudando Git e GitHub na prática.
 ## Próximos passos
 
 Continuar praticando Git e GitHub, trabalhando com branches, commits e Pull Requests.
+
+## Competências em desenvolvimento
+
+- Controle de versão com Git.
+- Colaboração e revisão de código com GitHub.
+- Organização de projetos por meio de branches e Pull Requests.
