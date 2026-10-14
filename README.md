@@ -25,3 +25,8 @@ Em desenvolvimento.
 - Publicar projetos no GitHub.
 - Desenvolver automações com Python.
 - Integrar aplicações com bancos de dados SQL.
+
+## Meu objetivo profissional
+
+Desenvolver soluções tecnológicas que integrem sistemas, automatizem processos e melhorem os resultados do negócio.
+
