@@ -18,3 +18,10 @@ Desenvolver soluções para melhorar processos, organizar dados e automatizar ta
 ## Status
 
 Em desenvolvimento.
+
+## Próximos objetivos
+
+- Aprender controle de versões com Git.
+- Publicar projetos no GitHub.
+- Desenvolver automações com Python.
+- Integrar aplicações com bancos de dados SQL.
