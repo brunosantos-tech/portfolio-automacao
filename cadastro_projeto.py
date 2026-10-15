@@ -6,15 +6,22 @@ while True:
     responsavel = input("Digite o responsável: ").strip()
     objetivo = input("Digite o objetivo do projeto: ").strip()
 
-    if nome and responsavel and objetivo:
+
+    if not nome:
+        print("\nErro: o campo 'nome' é obrigatório.")
+    elif not responsavel:
+        print("\nErro: o campo 'responsável' é obrigatório.")
+    elif not objetivo:
+        print("\nErro: o campo 'objetivo' é obrigatório.")
+    else:
         print("\n=== Dados Cadastrados ===")
         print(f"Projeto: {nome}")
         print(f"Responsável: {responsavel}")
         print(f"Objetivo: {objetivo}")
         break
-    else:
-        print("\nErro: todos os campos são obrigatórios.")
-        print("Tente cadastrar novamente.\n")
+
+    print("Tente cadastrar novamente.\n")
+
 
 
 
